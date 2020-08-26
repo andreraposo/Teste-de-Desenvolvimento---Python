@@ -1,0 +1,131 @@
+{
+	"info": {
+		"_postman_id": "5ae815cd-fb4b-4410-80e2-76152742b964",
+		"name": "Noticias",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GET/POST Noticias",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "titulo",
+							"value": "Noticia teste",
+							"type": "text"
+						},
+						{
+							"key": "conteudo",
+							"value": "Modi et nulla accusantium aliquam temporibus hic. Dolor neque sunt asperiores et velit qui iusto voluptate. Quia ad consequatur totam rerum nemo corrupti possimus iusto. Tenetur ut amet praesentium nihil voluptas dignissimos dolores. Soluta sequi sed suscipit delectus nesciunt dolor.",
+							"type": "text"
+						},
+						{
+							"key": "autor",
+							"value": "George Orwell",
+							"type": "text"
+						},
+						{
+							"key": "username",
+							"value": "george.orwell",
+							"type": "text"
+						},
+						{
+							"key": "email",
+							"value": "george.orwell@mail.com",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "localhost:5000/noticias/",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"noticias",
+						""
+					]
+				},
+				"description": "Retorna todas as noticias no Banco de Dados"
+			},
+			"response": []
+		},
+		{
+			"name": "GET/PUT/DELETE Noticia",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "titulo",
+							"value": "Noticia editada",
+							"type": "text"
+						},
+						{
+							"key": "conteudo",
+							"value": "Integer lobortis lectus eget dolor fermentum, iaculis sollicitudin lacus condimentum. Nulla magna tellus, sollicitudin eu interdum ac, consequat sit amet sem.",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "localhost:5000/noticia/1",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"noticia",
+						"1"
+					]
+				},
+				"description": "Manipula noticias específicas utilizando seu id começando a partir de 1\nlocalhost:5000/noticia/id"
+			},
+			"response": []
+		},
+		{
+			"name": "GET Noticia Filtrada",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:5000/noticia/?titulo=primeira",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"noticia",
+						""
+					],
+					"query": [
+						{
+							"key": "titulo",
+							"value": "primeira"
+						},
+						{
+							"key": "conteudo",
+							"value": "lorem",
+							"disabled": true
+						},
+						{
+							"key": "autor",
+							"value": "tales",
+							"disabled": true
+						}
+					]
+				},
+				"description": "Retorna todas as noticias onde haja uma ocorrencia da string inclusa como argumento.\nO programa só aceita um argumento por vez, nos campos titulo, conteudo e autor\n\nlocalhost:5000/noticia/?titulo=teste"
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
