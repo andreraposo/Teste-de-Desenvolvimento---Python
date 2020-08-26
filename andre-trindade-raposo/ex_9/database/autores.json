@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "5f45c793a25271aa9cb54b0b"
+  },
+  "username": "tales.mileto",
+  "email": "tales.mileto@mail.com",
+  "nome": "Tales",
+  "sobrenome": "de Mileto",
+  "data_criacao": {
+    "$date": "2020-08-25T23:23:01.421Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f45c7eda25271aa9cb54b0f"
+  },
+  "username": "rene.descartes",
+  "email": "rene.descartes@mail.com",
+  "nome": "René",
+  "sobrenome": "Descartes",
+  "data_criacao": {
+    "$date": "2020-08-25T23:23:01.421Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f45c820a25271aa9cb54b12"
+  },
+  "username": "francis.drake",
+  "email": "francis.drake@mail.com",
+  "nome": "Sir",
+  "sobrenome": "Francis Drake",
+  "data_criacao": {
+    "$date": "2020-08-25T23:23:01.421Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f45c87da25271aa9cb54b16"
+  },
+  "username": "albert.camus",
+  "email": "albert.camus@mail.com",
+  "nome": "Albert",
+  "sobrenome": "Camus",
+  "data_criacao": {
+    "$date": "2020-08-25T23:23:01.421Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f45c8c4a25271aa9cb54b18"
+  },
+  "username": "arthur.schopenhauer",
+  "email": "arthur.schopenhauer@mail.com",
+  "nome": "Arthur",
+  "sobrenome": "Schopenhauer",
+  "data_criacao": {
+    "$date": "2020-08-25T23:23:01.421Z"
+  }
+}]

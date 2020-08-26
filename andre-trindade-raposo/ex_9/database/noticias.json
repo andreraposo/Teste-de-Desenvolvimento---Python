@@ -1,0 +1,136 @@
+[{
+  "_id": {
+    "$oid": "5f45c793a25271aa9cb54b0c"
+  },
+  "titulo": "Noticia Um",
+  "conteudo": "Podemos já vislumbrar o modo pelo qual a constante divulgação das informações não pode mais se dissociar de todos os recursos funcionais envolvidos.",
+  "autor": {
+    "$oid": "5f45c793a25271aa9cb54b0b"
+  },
+  "data_criacao": {
+    "$date": "2020-08-25T23:23:01.421Z"
+  },
+  "data_edicao": {
+    "$date": "2020-08-25T23:23:01.421Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f45c79da25271aa9cb54b0d"
+  },
+  "titulo": "Noticia Dois",
+  "conteudo": "No entanto, não podemos esquecer que o entendimento das metas propostas oferece uma interessante oportunidade para verificação do remanejamento dos quadros funcionais.",
+  "autor": {
+    "$oid": "5f45c793a25271aa9cb54b0b"
+  },
+  "data_criacao": {
+    "$date": "2020-08-25T23:23:01.421Z"
+  },
+  "data_edicao": {
+    "$date": "2020-08-25T23:23:01.421Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f45c7b0a25271aa9cb54b0e"
+  },
+  "titulo": "Noticia Três",
+  "conteudo": "O incentivo ao avanço tecnológico, assim como a percepção das dificuldades é uma das consequências dos paradigmas corporativos.",
+  "autor": {
+    "$oid": "5f45c793a25271aa9cb54b0b"
+  },
+  "data_criacao": {
+    "$date": "2020-08-25T23:23:01.421Z"
+  },
+  "data_edicao": {
+    "$date": "2020-08-25T23:23:01.421Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f45c7eda25271aa9cb54b10"
+  },
+  "titulo": "Noticia quatro",
+  "conteudo": "Gostaria de enfatizar que o consenso sobre a necessidade de qualificação garante a contribuição de um grupo importante na determinação dos relacionamentos verticais entre as hierarquias.",
+  "autor": {
+    "$oid": "5f45c7eda25271aa9cb54b0f"
+  },
+  "data_criacao": {
+    "$date": "2020-08-25T23:23:01.421Z"
+  },
+  "data_edicao": {
+    "$date": "2020-08-25T23:23:01.421Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f45c7ffa25271aa9cb54b11"
+  },
+  "titulo": "Noticia cinco",
+  "conteudo": "Neste sentido, a hegemonia do ambiente político facilita a criação dos índices pretendidos.",
+  "autor": {
+    "$oid": "5f45c7eda25271aa9cb54b0f"
+  },
+  "data_criacao": {
+    "$date": "2020-08-25T23:23:01.421Z"
+  },
+  "data_edicao": {
+    "$date": "2020-08-25T23:23:01.421Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f45c820a25271aa9cb54b13"
+  },
+  "titulo": "Noticia seis",
+  "conteudo": "Percebemos, cada vez mais, que a valorização de fatores subjetivos garante a contribuição de um grupo importante na determinação das regras de conduta normativas.",
+  "autor": {
+    "$oid": "5f45c820a25271aa9cb54b12"
+  },
+  "data_criacao": {
+    "$date": "2020-08-25T23:23:01.421Z"
+  },
+  "data_edicao": {
+    "$date": "2020-08-25T23:23:01.421Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f45c82fa25271aa9cb54b14"
+  },
+  "titulo": "Noticia sete",
+  "conteudo": "A certificação de metodologias que nos auxiliam a lidar com a revolução dos costumes representa uma abertura para a melhoria dos paradigmas corporativos.",
+  "autor": {
+    "$oid": "5f45c820a25271aa9cb54b12"
+  },
+  "data_criacao": {
+    "$date": "2020-08-25T23:23:01.421Z"
+  },
+  "data_edicao": {
+    "$date": "2020-08-25T23:23:01.421Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f45c857a25271aa9cb54b15"
+  },
+  "titulo": "Noticia oito",
+  "conteudo": "A nível organizacional, a revolução dos costumes causa impacto indireto na reavaliação das condições financeiras e administrativas exigidas.",
+  "autor": {
+    "$oid": "5f45c820a25271aa9cb54b12"
+  },
+  "data_criacao": {
+    "$date": "2020-08-25T23:23:01.421Z"
+  },
+  "data_edicao": {
+    "$date": "2020-08-25T23:23:01.421Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f45c87da25271aa9cb54b17"
+  },
+  "titulo": "Noticia dez",
+  "conteudo": "O que temos que ter sempre em mente é que a expansão dos mercados mundiais estimula a padronização do processo de comunicação como um todo.",
+  "autor": {
+    "$oid": "5f45c87da25271aa9cb54b16"
+  },
+  "data_criacao": {
+    "$date": "2020-08-25T23:23:01.421Z"
+  },
+  "data_edicao": {
+    "$date": "2020-08-25T23:31:55.310Z"
+  }
+}]
